@@ -1,4 +1,3 @@
-import Button from "./Button"
 import Field from "./Field"
 
 const SearchTaskForm = (props) => {
